@@ -180,7 +180,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/chris-leslie/crypto-realtime-dashboard/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/chris22622/Crypto-Real-Time-Dashboard/issues) page to report bugs or request features.
 
 ## 📄 License
 
@@ -193,8 +193,8 @@ For security concerns, please review our [Security Policy](SECURITY.md) and repo
 ## 📞 Support
 
 - **Documentation**: Check the [docs](docs/) directory
-- **Issues**: [GitHub Issues](https://github.com/chris-leslie/crypto-realtime-dashboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/chris-leslie/crypto-realtime-dashboard/discussions)
+- **Issues**: [GitHub Issues](https://github.com/chris22622/Crypto-Real-Time-Dashboard/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/chris22622/Crypto-Real-Time-Dashboard/discussions)
 
 ## ⭐ Acknowledgments
 
@@ -204,6 +204,6 @@ For security concerns, please review our [Security Policy](SECURITY.md) and repo
 
 ---
 
-**Built with ❤️ by [Chrissano Leslie](https://github.com/chris-leslie)**
+**Built with ❤️ by [Chrissano Leslie](https://github.com/chris22622)**
 
 *Ready to trade? Start monitoring your favorite cryptocurrencies in real-time!*
