@@ -179,6 +179,6 @@ For security concerns, please review our [Security Policy](SECURITY.md) and repo
 
 ---
 
-**Built with ❤️ by [Chris Leslie](https://github.com/chris-leslie)**
+**Built with ❤️ by [Chrissano Leslie](https://github.com/chris-leslie)**
 
 *Ready to trade? Start monitoring your favorite cryptocurrencies in real-time!*
