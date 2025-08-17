@@ -16,7 +16,32 @@ A sleek, production-ready Streamlit application that streams live cryptocurrency
 - **⚡ High Performance**: Optimized WebSocket connections with automatic reconnection
 - **🎨 Modern UI**: Clean, professional interface with color-coded price movements
 
-## 🚀 Quickstart
+## �️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chris22622/Crypto-Real-Time-Dashboard.git
+   cd Crypto-Real-Time-Dashboard
+   ```
+
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv .venv
+   # Windows
+   .\.venv\Scripts\activate
+   # macOS/Linux
+   source .venv/bin/activate
+   ```
+
+3. Install dependencies and run the app:
+   ```bash
+   pip install -r requirements.txt
+   streamlit run app/main.py
+   ```
+
+The dashboard will open in your browser at `http://localhost:8501`
+
+## �🚀 Quickstart
 
 ```bash
 # Clone the repository
