@@ -1,6 +1,6 @@
 # 🚀 Crypto Real-Time Dashboard
 
-[![CI](https://github.com/chris-leslie/crypto-realtime-dashboard/workflows/CI/badge.svg)](https://github.com/chris-leslie/crypto-realtime-dashboard/actions)
+[![CI](https://github.com/chris22622/Crypto-Real-Time-Dashboard/workflows/CI/badge.svg)](https://github.com/chris22622/Crypto-Real-Time-Dashboard/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 
@@ -20,22 +20,18 @@ A sleek, production-ready Streamlit application that streams live cryptocurrency
 
 ```bash
 # Clone the repository
-git clone https://github.com/chris-leslie/crypto-realtime-dashboard.git
-cd crypto-realtime-dashboard
+git clone https://github.com/chris22622/Crypto-Real-Time-Dashboard.git
+cd Crypto-Real-Time-Dashboard
 
-# Create virtual environment
+# Create & activate virtual environment
 python -m venv .venv
-
-# Activate virtual environment
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
+# Windows
+.\.venv\Scripts\activate
+# macOS/Linux
 source .venv/bin/activate
 
-# Install dependencies
+# Install & run
 pip install -r requirements.txt
-
-# Launch the dashboard
 streamlit run app/main.py
 ```
 
@@ -43,18 +39,18 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ## 📸 Screenshots
 
-> **Note**: Screenshots and demo GIFs are available in the [docs/screenshots](docs/screenshots) directory.
+> **Note**: Screenshots and demo GIFs are available in the [screenshots](screenshots) directory.
 
 ### Main Dashboard
-![Main Dashboard](docs/screenshots/main_dashboard.png)
+![Main Dashboard](screenshots/main_dashboard.png)
 *Live cryptocurrency dashboard with real-time charts and market data*
 
 ### Live Price Chart
-![Live Chart](docs/screenshots/live_chart.png)
+![Live Chart](screenshots/live_chart.png)
 *Real-time price sparkline with WebSocket streaming*
 
 ### Alert System
-![Alert Notification](docs/screenshots/alert_notification.png)
+![Alert Notification](screenshots/alert_notification.png)
 *Instant price alerts with customizable thresholds*
 
 ## 🛠️ Technology Stack
@@ -67,9 +63,9 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ## 📚 Documentation
 
-- [📋 Architecture Overview](docs/ARCHITECTURE.md) - System design and data flow
-- [📷 Screenshot Guide](docs/SHOTLIST.md) - Documentation screenshots
-- [🔧 API Documentation](docs/API.md) - Binance API integration details
+- [📋 Enhanced Features](ENHANCED_FEATURES.md) - Complete feature documentation
+- [� Errors Fixed](ERRORS_FIXED.md) - Technical issues resolved
+- [� Screenshots](screenshots/README.md) - Visual documentation guide
 
 ## 🚀 Deployment
 
